@@ -8,8 +8,8 @@ Prediction of skin cancer using Machine Learning: Artificial neural network
 # Project
 **Proposal**: https://drive.google.com/drive/folders/1cJjXAHcQvDgBvNLbupK5LdxUUruskxlS <br>
 **Progress 1**: https://docs.google.com/document/d/1Fvk6F4IJDr0BEVvP6YmAheczF3K5cNGk_4HFi6YZTSw <br>
-**Progress 2**: <br>
-**Progress 3**: <br>
+**Progress 2**: https://docs.google.com/document/d/1jcxAzYH1X5iy3q7U_Gx_E2EBMgphC8mYi5n0tZx4UtU/edit
+**Progress 3**: https://docs.google.com/document/d/1jcxAzYH1X5iy3q7U_Gx_E2EBMgphC8mYi5n0tZx4UtU/edit
 **Progress 4**: <br>
 **Progress 5**: <br>
 
